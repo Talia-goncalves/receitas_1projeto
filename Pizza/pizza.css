@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(202, 174, 140);
+}
+
+.imagem{
+    height: 300px;
+    width:50%;
+    position: absolute;
+    top:15%;
+}
+
+h3{
+    text-align: center;
+}
+
+.nome{
+    position: absolute;
+    top:13%;
+    left:58%;
+}
+
+.ingrediente1{
+    height: 170px;
+    width:25%;
+    position: absolute;
+    left:35%;
+    top:25%;
+}
+
+.ingrediente2{
+    height: 170px;
+    width:25%;
+    position: absolute;
+    left:65%;
+    top:25%;
+}
+
+.preparo{
+    height: 250px;
+    width:50%;
+    position: absolute;
+    left:25%;
+    bottom: 15px;
+    right:54%;
+}

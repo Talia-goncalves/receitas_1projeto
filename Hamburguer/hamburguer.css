@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(182, 111, 111);
+}
+
+.titulo{
+    height: 300px;
+    width:50%;
+    position: absolute;
+    left:40%;
+    top: 15;
+}
+
+.imagem{
+    height: 300px;
+    width:50%;
+    position: absolute;
+    top: 5%;
+}
+
+h3{
+    text-align: center;
+}
+
+.nome{
+    position: absolute;
+    top:13%;
+    left:58%;
+}
+
+.ingrediente1{
+    height: 170px;
+    width:25%;
+    position: absolute;
+    left:35%;
+    top:25%;
+}
+
+.ingrediente2{
+    height: 170px;
+    width:25%;
+    position: absolute;
+    left:65%;
+    top:25%;
+}
+
+.hamburguer{
+    height: 250px;
+    width:30%;
+    position: absolute;
+    left:1%;
+    bottom: 27px;
+    right:54%;
+}
+
+.molho{
+    height: 250px;
+    width:30%;
+    position: absolute;
+    left:33%;
+    bottom: 27px;
+    right:54%;
+}
+
+.montagem{
+    height: 250px;
+    width:30%;
+    position: absolute;
+    left:65%;
+    bottom: 27px;
+    right:54%;
+}

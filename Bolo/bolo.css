@@ -1,0 +1,37 @@
+body{
+    background-color:#ffbc40;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.imagem{
+    height: 300px;
+    width:50%;
+    left:5%;
+    position: absolute;
+    top:15%;
+}
+
+
+.ingrediente{
+    height: 300px;
+    width:30%;
+    position: absolute;
+    left:50%;
+    top:15%;
+}
+
+.preparo{
+    height: 250px;
+    width:50%;
+    position: absolute;
+    left:25%;
+    top: 350px;
+    right:54%;
+}
